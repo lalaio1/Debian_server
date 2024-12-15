@@ -1,6 +1,6 @@
 # Automação de Configuração de Sistema Linux (Debian) 🖥️
 
-[!](./1.png)
+![jntfrfgvhytfrfg](1.png)
 
 Este script realiza a automação de diversas tarefas de configuração e instalação em um sistema baseado em Debian (Ubuntu, etc.). Ele instala pacotes essenciais, configura serviços de segurança, e ajusta configurações de rede para otimizar a segurança e a performance do sistema.
 

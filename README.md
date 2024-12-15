@@ -5,8 +5,18 @@
 Este script realiza a automação de diversas tarefas de configuração e instalação em um sistema baseado em Debian (Ubuntu, etc.). Ele instala pacotes essenciais, configura serviços de segurança, e ajusta configurações de rede para otimizar a segurança e a performance do sistema.
 
 ---
+## Como Executar o script (automatic) 💠
+1. **Abra o terminal como sudo e cole este comando**
+  ```bash
+git clone https://github.com/lalaio1/Debian_server.git && \
+cd Debian_server && \
+chmod +x start.sh && \
+sudo ./start.sh
+```
 
-## Como Executar o Script 🏃‍♂️
+---
+
+## Como Executar o Script (manual) 🏃‍♂️
 
 1. **Obtenha o script**:
    Baixe o script para o seu servidor Linux.

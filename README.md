@@ -2,7 +2,7 @@
 
 ![jntfrfgvhytfrfg](1.png)
 
-Este script realiza a automação de diversas tarefas de configuração e instalação em um sistema baseado em Debian (Ubuntu, etc.). Ele instala pacotes essenciais, configura serviços de segurança, e ajusta configurações de rede para otimizar a segurança e a performance do sistema.
+__`Este script realiza a automação de diversas tarefas de configuração e instalação em um sistema baseado em Debian (Ubuntu, etc.). Ele instala pacotes essenciais, configura serviços de segurança, e ajusta configurações de rede para otimizar a segurança e a performance do sistema.`__
 
 ---
 ## Como Executar o script (automatic) 💠
